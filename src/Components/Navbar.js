@@ -13,7 +13,7 @@ const Navbar = () => {
             <div className='nav'>
                 <div className='logo'>
                     <div>
-                        <h2>Kayla Padilla</h2>
+                        <h2>Raghu Bonala</h2>
                     </div>
                 </div>
                 <div className='menu'>
