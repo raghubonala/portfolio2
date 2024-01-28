@@ -19,9 +19,9 @@ const Navbar = () => {
                 <div className='menu'>
                     <div className='linktag'>
                         <Link to="/contact">Contact</Link>
-                        <Link>Media</Link>
-                        <Link>Projects</Link>
-                        <Link>Resume</Link>
+                        <Link to="/blog">Blog</Link>
+                        <Link to="/project">Projects</Link>
+                        <Link to="/resume">Resume</Link>
                         <Link>Resources</Link>
                         <FontAwesomeIcon icon={faEnvelope} />
                         <FontAwesomeIcon icon={faTwitter} />
